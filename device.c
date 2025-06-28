@@ -1,4 +1,5 @@
 #include "common.h"
+//R11 message
 //message2 in device.c
 #define NAME(key) \
   [_KEY_##key] = #key,
